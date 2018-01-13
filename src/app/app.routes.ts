@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { LoginComponent } from './login/login.component';
 import { NopagefoundComponent } from './nopagefound/nopagefound.component';
 import { RegisterComponent } from './login/register.component';
+import { Component } from '@angular/core/src/metadata/directives';
 
 const appRoutes: Routes = [
     {
